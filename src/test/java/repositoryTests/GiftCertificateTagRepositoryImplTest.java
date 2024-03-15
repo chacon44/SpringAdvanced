@@ -1,13 +1,13 @@
 package repositoryTests;
 
-import com.epam.esm.mapper.GiftCertificateRowMapper;
-import com.epam.esm.mapper.TagRowMapper;
-import com.epam.esm.model.GiftCertificate;
-import com.epam.esm.model.Tag;
-import com.epam.esm.queries.PostgreSqlQueries;
-import com.epam.esm.repository.GiftCertificateTagRepository;
-import com.epam.esm.repository.GiftCertificateTagRepositoryImpl;
-import config.TestRepositoryConfig;
+//import com.epam.esm.mapper.GiftCertificateRowMapper;
+//import com.epam.esm.mapper.TagRowMapper;
+//import com.epam.esm.model.GiftCertificate;
+//import com.epam.esm.model.Tag;
+//import com.epam.esm.queries.PostgreSqlQueries;
+//import com.epam.esm.repository.GiftCertificateTagRepository;
+//import com.epam.esm.repository.GiftCertificateTagRepositoryImpl;
+//import config.TestRepositoryConfig;
 import com.epam.esm.Main;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

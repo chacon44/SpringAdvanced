@@ -1,11 +1,11 @@
 package controller;
 
-import com.epam.esm.Dto.GiftCertificate.GiftCertificateRequestDTO;
-import com.epam.esm.Main;
-import com.epam.esm.controller.CertificatesController;
-import com.epam.esm.model.GiftCertificate;
-import com.epam.esm.model.Tag;
-import com.epam.esm.service.GiftCertificateService;
+//import com.epam.esm.Dto.GiftCertificate.GiftCertificateRequestDTO;
+//import com.epam.esm.Main;
+//import com.epam.esm.controller.CertificatesController;
+//import com.epam.esm.model.GiftCertificate;
+//import com.epam.esm.model.Tag;
+//import com.epam.esm.service.GiftCertificateService;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
