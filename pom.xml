@@ -149,11 +149,11 @@
       <artifactId>lombok</artifactId>
     </dependency>
 
-    <dependency>
-      <groupId>org.springframework.boot</groupId>
-      <artifactId>spring-boot</artifactId>
-      <version>3.3.0-SNAPSHOT</version>
-    </dependency>
+<!--    <dependency>-->
+<!--      <groupId>org.springframework.boot</groupId>-->
+<!--      <artifactId>spring-boot</artifactId>-->
+<!--      <version>3.3.0-SNAPSHOT</version>-->
+<!--    </dependency>-->
 
   </dependencies>
 
@@ -177,7 +177,7 @@
         <version>2.0</version>
         <configuration>
           <server>maven-tomcat-war-deployment-server</server>
-          <url>http://localhost:8080/manager/text</url>
+          <url>http://localhost:8082/manager/text</url>
           <path>/rps</path>
         </configuration>
       </plugin>
